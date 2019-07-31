@@ -1,6 +1,8 @@
 # NgjLogger
 
-This library was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.1.2.
+This is a simple configurable libery uresd for logging for angular application.
+Simple to use.Simple to confiure.
+You can log in three different type.(console, local storage,Web api).
 
 ## Code scaffolding
 
