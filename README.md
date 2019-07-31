@@ -1,6 +1,6 @@
 # NgjLogger
 
-* This is a simple configurable libery uresd for logging for angular application.
+* This is a simple configurable libery used for logging for angular application.
 * Simple to use.Simple to confiure.
 * You can log in three different type.(console, local storage,Web api).
 * It is developed using Angular >=8.0.0 and its newly introduced ng g library schematics.
